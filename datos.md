@@ -6,3 +6,5 @@
 - Ver anime
 
 Primer Push, Probando mark down
+
+Segundo Push, aprendiendo los comandos
