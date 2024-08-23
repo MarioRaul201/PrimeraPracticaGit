@@ -5,4 +5,4 @@
 - Comer
 - Ver anime
 
-Pepe pica papas, esta es una modificacion para enseñarle a Cristhian
+Esta es una modificacion para la clase
