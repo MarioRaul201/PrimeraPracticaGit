@@ -7,4 +7,4 @@
 
 Esta es una modificacion para la clase
 
-![Rock_And_Stone](/Users/marshal/Documents/PracticaGit/Rock_And_Stone.jpeg?raw=true) 
+![Rock_And_Stone](./Rock_And_Stone.jpeg?raw=true)
